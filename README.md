@@ -14,3 +14,4 @@ lights
 
 IR remote control - DrZzs https://www.youtube.com/watch?v=CEwuMh80CSA
 
+move database to mariadb to get long term trends 
