@@ -8,4 +8,7 @@ Ideas from Home Assistant Podcast
 
 General Ideas
 -
--Multi-room audio - volumio
+-Multi-room audio - volumio if sync works
+-lights
+-IR remote control - DrZzs
+
