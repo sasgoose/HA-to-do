@@ -5,7 +5,7 @@ Ideas from Home Assistant Podcast
 -
 Episode 23
 Room assistant - https://github.com/mKeRix/room-assistant
-bluetooth strength for room presence detection
+bluetooth strength for room presence detection (x metres from the bluetooth point means that they are in the room)
 
 
 General Ideas
