@@ -11,7 +11,7 @@ Episode 23
 
 Episode 24
 
-  snappy water sensors
+  Smappee water sensors
 
 General Ideas
 -
