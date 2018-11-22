@@ -24,3 +24,9 @@ IR remote control - DrZzs https://www.youtube.com/watch?v=CEwuMh80CSA
 move database to mariadb to get long term trends 
 
 floor plan 
+
+Dr Zzs
+
+open garage - house tour live chat
+
+car presence - D1 mini to automatically open door 
