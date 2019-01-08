@@ -72,3 +72,10 @@ Dr Zzs
 open garage - house tour live chat
 
 car presence - D1 mini to automatically open door 
+
+
+From Community
+-
+smart microwave times - https://community.home-assistant.io/t/making-my-microwave-smart-ish/89843
+
+
