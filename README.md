@@ -73,6 +73,8 @@ open garage - house tour live chat
 
 car presence - D1 mini to automatically open door 
 
+https://www.electromaker.io/project/view/create-your-own-home-intercom-using-raspberry-pi-and-mumble
+
 
 From Community
 -
