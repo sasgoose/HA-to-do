@@ -80,4 +80,12 @@ From Community
 -
 smart microwave times - https://community.home-assistant.io/t/making-my-microwave-smart-ish/89843
 
-https://webworxshop.com/quick-project-lovelace-multi-room-audio-controller/?pk_campaign=reddit-hass
+Multi room audio: https://webworxshop.com/quick-project-lovelace-multi-room-audio-controller/?pk_campaign=reddit-hass
+
+Litter Robot: https://github.com/joshjcarrier/homeassistant-litter-robot  https://www.litter-robot.com/litter-robot-iii-open-air-with-connect.html
+
+Voice actor/litter robot:
+https://149walnut.com/2018-06-i-hired-a-dude-who-voices-nike-commercials-to-tell-me-when-my-cat-litter-is-full/
+
+https://www.thesmarthomeninja.com/diy-want-to-create-your-own-voice-controlled-smart-mirror-heres-a-video-and-list-to-do-it/
+
