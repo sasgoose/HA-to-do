@@ -54,6 +54,11 @@ Spotlight 2 - Presence detection
   Bayesian sensor https://www.home-assistant.io/components/binary_sensor.bayesian/ 
 
 
+Episode - 0.97 
+  
+  Alarm app on phone to send notification through nabu casa to homeassistant, home assistant to then do alarm stuff like cycling through the circadian lighting etc. tasker somewhere in there. 
+  
+
 
 General Ideas
 -
