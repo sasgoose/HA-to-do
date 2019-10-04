@@ -94,3 +94,10 @@ https://149walnut.com/2018-06-i-hired-a-dude-who-voices-nike-commercials-to-tell
 
 https://www.thesmarthomeninja.com/diy-want-to-create-your-own-voice-controlled-smart-mirror-heres-a-video-and-list-to-do-it/
 
+PDLC film as a window cover - https://old.reddit.com/r/homeautomation/comments/dcxwfy/pdlc_film_as_window_cover/
+this is expensive but for bathroom windows it could be good
+
+
+Thermal camera for use in presence detection 
+https://learn.adafruit.com/adafruit-amg8833-8x8-thermal-camera-sensor/overview
+https://towardsdatascience.com/detecting-people-with-a-raspberrypi-a-thermal-camera-and-machine-learning-376d3bbcd45c
