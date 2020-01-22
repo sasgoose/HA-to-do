@@ -57,7 +57,11 @@ Spotlight 2 - Presence detection
 Episode - 0.97 
   
   Alarm app on phone to send notification through nabu casa to homeassistant, home assistant to then do alarm stuff like cycling through the circadian lighting etc. tasker somewhere in there. 
-  
+ 
+Episode - 0.101 - New Zealander
+
+  Bed weight sensor, use a door mat from amazon like they do in aged residential facility. https://www.amazon.com/Ideal-Security-SK630-Pressure-Triggered/dp/B00GUNX7WY/ref=pd_bap_rp_2/137-9520178-8293353?_encoding=UTF8&pd_rd_i=B00GUNX7WY&pd_rd_r=22ea25c2-14e0-438d-b908-60337fa1486c&pd_rd_w=36AmW&pd_rd_wg=GcyhT&pf_rd_p=aec52988-b7d4-431a-8040-7c6531ac239f&pf_rd_r=KB3DZD7VPBPD9PMQHBGN&psc=1&refRID=KB3DZD7VPBPD9PMQHBGN Cut off the alarm and replace with sonoff basic. talking about it at roughly 40 minutes. automations in https://github.com/MYLE-01/MySmarthouse
+
 Episode - 0.102 State of the Union
   
   internal cameras, when someone is home rotate the camera so it is looking at the wall, when everyone is out, rotate to see the room 
