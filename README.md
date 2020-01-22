@@ -58,7 +58,9 @@ Episode - 0.97
   
   Alarm app on phone to send notification through nabu casa to homeassistant, home assistant to then do alarm stuff like cycling through the circadian lighting etc. tasker somewhere in there. 
   
-
+Episode - 0.102 State of the Union
+  
+  internal cameras, when someone is home rotate the camera so it is looking at the wall, when everyone is out, rotate to see the room 
 
 General Ideas
 -
